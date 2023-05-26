@@ -9,6 +9,6 @@ Problem Description:
 -> The pressure-correction loop is solved using Jacobi iterative method, which is parallelized using OpenMP.  
 -> The diffusive fluxes are discretized using a linear-profile assumption.  
 -> The convective fluxes are discretized using a hybrid scheme of $1^{st}-$ order upwind scheme and CDS.  
--> The results are compared with the data available in the literature.  
+-> The results for the cases $Re = 100$ and $Re = 1000$ are compared with the data available in the literature.  
 
 Reference: Ghia, U. K. N. G., Ghia, K. N., & Shin, C. T. (1982). High-Re solutions for incompressible flow using the Navier-Stokes equations and a multigrid method. Journal of computational physics, 48(3), 387-411.  
