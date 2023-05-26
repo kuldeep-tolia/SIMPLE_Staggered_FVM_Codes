@@ -1,1 +1,2 @@
-# SIMPLE_Staggered_FVM_Codes
+-> This repository contains FVM codes for solving Navier-Stokes equations using SIMPLE algorithm on a staggered grid.  
+-> Two canonical test cases are presented here: Lid-driven cavity flow and developing channel flow.  
